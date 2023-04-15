@@ -36,4 +36,3 @@ module.exports = {
   dateSample
 };
 
-console.log(dateSample('1'),dateSample('1'))
